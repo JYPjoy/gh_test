@@ -112,4 +112,5 @@ print("Hello \(name)")
 
 ## mastering markdown : example
 
-https://guides.github.com/features/mastering-markdown/
+1. https://guides.github.com/features/mastering-markdown/
+2. https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
