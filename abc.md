@@ -8,6 +8,6 @@
 
 # def
 
-|      dd       |      dd       |      dd       |
-| :-----------: | :-----------: | :-----------: |
-| /branch/a.png | /branch/a.png | /branch/a.png |
+|       dd       |       dd       |       dd       |
+| :------------: | :------------: | :------------: |
+| ./branch/a.png | ./branch/a.png | ./branch/a.png |
