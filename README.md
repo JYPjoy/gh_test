@@ -101,7 +101,18 @@ browsing:
 
 # Link
 
-Click [Google](https://www.google.com/)
+### 1. 외부 링크
+
+Click [Google](https://www.google.com/) <br/>
+
+<!--내부링크-->
+
+### 2. 같은 문서 내부 하이퍼링크
+
+> [화면에 보이는 텍스트](#이동할 위치)
+
+반드시 소문자 여야 하고, 띄어쓰기는 - 로 구문해야 함  
+[라인](#line)
 
 <!-- Image -->
 
